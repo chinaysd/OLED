@@ -1,26 +1,30 @@
-"F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\stm8s_it.c"
+"C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\stm8s_it.c"
 -std=c99
 -ferror-limit=0
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\src
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\src
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\inc
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\inc
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\OLED_SRC
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\OLED_SRC
+-I
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\OLED_SRC
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\stm8\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\stm8\inc\c
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\src
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\src
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\inc
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\STM8S_StdPeriph_Driver\inc
 -I
-F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\OLED_SRC
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\OLED_SRC
+-I
+C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\OLED_SRC
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0

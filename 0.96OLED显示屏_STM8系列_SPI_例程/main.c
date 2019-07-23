@@ -31,6 +31,8 @@
 #include "stm8s.h"
 #include "oled.h"
 #include "bmp.h"
+#include "bsp_led.h"
+
 /* Private defines -----------------------------------------------------------*/
 /* Private function prototypes -----------------------------------------------*/
 /* Private functions ---------------------------------------------------------*/
@@ -51,7 +53,7 @@ void main(void)
 	//	NVIC_Configuration(); 	 //����??NVIC?D??��?����2:2???��??��??��??��?2???����|��??��?? 	LED_Init();			     //LED???��3?��??��
 		OLED_Init();			//3?��??��OLED  
 		OLED_Clear()  	; 
-		
+		Led_Init();
 		 OLED_ShowString(30,0,"OLED TEST");
 		OLED_ShowString(8,2,"ZHONGJINGYUAN");  
 		OLED_ShowString(20,4,"2014/05/01");  

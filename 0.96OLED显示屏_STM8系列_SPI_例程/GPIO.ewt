@@ -2108,6 +2108,9 @@
         <group>
             <name>OLED</name>
             <file>
+                <name>$PROJ_DIR$\OLED_SRC\bsp_led.c</name>
+            </file>
+            <file>
                 <name>$PROJ_DIR$\OLED_SRC\oled.c</name>
             </file>
         </group>

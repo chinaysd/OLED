@@ -1,4 +1,4 @@
-C51 COMPILER V9.59.0.0   MAIN                                                              07/22/2019 18:21:06 PAGE 1   
+C51 COMPILER V9.59.0.0   MAIN                                                              07/23/2019 08:53:08 PAGE 1   
 
 
 C51 COMPILER V9.59.0.0, COMPILATION OF MODULE MAIN
@@ -62,7 +62,7 @@ line level    source
   51   1                    OLED_ShowCHinese(54,0,3);//��
   52   1                    OLED_ShowCHinese(72,0,4);//��
   53   1                    OLED_ShowCHinese(90,0,5);//��
-C51 COMPILER V9.59.0.0   MAIN                                                              07/22/2019 18:21:06 PAGE 2   
+C51 COMPILER V9.59.0.0   MAIN                                                              07/23/2019 08:53:08 PAGE 2   
 
   54   1                    OLED_ShowCHinese(108,0,6);//��
   55   1             

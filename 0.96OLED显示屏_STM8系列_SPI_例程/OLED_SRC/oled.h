@@ -38,22 +38,22 @@
 
 /****************ʱ��*********************/
 #define OLED_SCLK_PORT  (GPIOC)
-#define OLED_SCLK_PINS  (GPIO_PIN_5)
+#define OLED_SCLK_PINS  (GPIO_PIN_4)
 
 /****************����*********************/
 #define OLED_SDIN_PORT  (GPIOC)
-#define OLED_SDIN_PINS  (GPIO_PIN_6)
+#define OLED_SDIN_PINS  (GPIO_PIN_5)
 
 /****************��λ*********************/
 #define OLED_RST_PORT  (GPIOC)
-#define OLED_RST_PINS  (GPIO_PIN_7)
+#define OLED_RST_PINS  (GPIO_PIN_6)
 
 /****************����/����*********************/
-#define OLED_DC_PORT  (GPIOA)
-#define OLED_DC_PINS  (GPIO_PIN_3)
+#define OLED_DC_PORT  (GPIOC)
+#define OLED_DC_PINS  (GPIO_PIN_7)
 
 /****************Ƭѡ*********************/
-#define OLED_CS_PORT  (GPIOC)
+#define OLED_CS_PORT  (GPIOA)
 #define OLED_CS_PINS  (GPIO_PIN_4)
 
 

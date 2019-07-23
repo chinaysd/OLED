@@ -23,9 +23,9 @@ param([String]$debugfile = "");
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.general.xcl" --backend -f "F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.general.xcl" --backend -f "C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.general.xcl" --debug_file=$debugfile --backend -f "F:\单片机\STM8单片机\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96寸OLED显示屏模块 12864 arduino IICSPI 供原理图 12864屏\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\Administrator\Desktop\OLED\0.96OLED显示屏_STM8系列_SPI_例程\settings\GPIO.Debug.driver.xcl" 
 }
